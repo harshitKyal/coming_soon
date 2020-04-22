@@ -21,7 +21,7 @@
             var request = new XMLHttpRequest()
             
             // Open a new connection, using the GET request on the URL endpoint
-            var linkk ='http://localhost:4000/ppekitSubscriber/subscribe/'
+            var linkk ='http://api.offers.gloryautotech.com/ppekitSubscriber/subscribe/'
             var phone_no =($(input[0]).val().trim())
             var email= ($(input[1]).val().trim())
             
